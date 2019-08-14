@@ -108,3 +108,6 @@ include/
 Downloads/
 etc/
 share/
+Scripts/
+LICENSE.txt
+tcl/
