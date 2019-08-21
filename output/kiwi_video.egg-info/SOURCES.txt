@@ -1,8 +1,0 @@
-README.md
-kiwi-video
-setup.py
-kiwi_video.egg-info/PKG-INFO
-kiwi_video.egg-info/SOURCES.txt
-kiwi_video.egg-info/dependency_links.txt
-kiwi_video.egg-info/requires.txt
-kiwi_video.egg-info/top_level.txt
