@@ -1,0 +1,4 @@
+colorama
+youtube-dl
+requests
+urllib3
