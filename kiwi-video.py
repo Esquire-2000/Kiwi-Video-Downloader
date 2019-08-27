@@ -17,7 +17,7 @@ def check_conn (): # check internet connection
 def get_video (url): #get video
 	ydl_opts = {
 				'writethumbnail': True,
-				'format': 'best', #best stream
+				'format': 'bestvideo+bestaudio/best', #best stream
 				'outtmpl': 'Downloads/%(title)s.%(ext)s', #set path to Downloads
 				'postprocessors': [{
 				'key': 'FFmpegVideoConvertor', # use ffmpeg to convert
